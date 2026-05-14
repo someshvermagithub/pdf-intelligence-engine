@@ -3,6 +3,11 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+.env
+chroma_db/
+__pycache__/
+.venv/
+
 # C extensions
 *.so
 
