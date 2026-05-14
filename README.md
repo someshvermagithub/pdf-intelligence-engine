@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![LangChain](https://img.shields.io/badge/LangChain-RAG-green)
+![Status](https://img.shields.io/badge/Status-Work%20In%20Progress-yellow)
 
 
 
