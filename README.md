@@ -2,6 +2,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![LangChain](https://img.shields.io/badge/LangChain-RAG-green)
+
+
+
 An AI-powered Retrieval-Augmented Generation (RAG) application for intelligent PDF research, summarization, semantic search, and question answering.
 
 ## Features
