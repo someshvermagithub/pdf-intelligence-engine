@@ -89,7 +89,8 @@ RAG-Research-Assistant/
 ```bash
 git clone https://github.com/someshvermagithub/pdf-intelligence-engine.git
 
-cd rag-research-assistant
+cd pdf-intelligence-engine
+
 ```
 
 ---
