@@ -311,13 +311,6 @@ This project demonstrates practical implementation of:
 - AI-Powered Research Tools
 - Production-ready Streamlit Applications
 
-Perfect for:
-
-- AI/ML Portfolios
-- Resume Projects
-- Research Assistants
-- Enterprise Knowledge Bases
-- Intelligent Document QA Systems
 
 ---
 
@@ -325,8 +318,7 @@ Perfect for:
 
 ## Somesh Verma
 
-BTech CSE (AI & ML) Student  
-AI Engineer • RAG Developer • LLM Enthusiast
+
 
 ---
 
